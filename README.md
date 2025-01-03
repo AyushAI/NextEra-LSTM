@@ -6,24 +6,36 @@ NextEra Supplies Store is a well-known retail giant that has been relying on Exc
 
 This dashboard should aim to empower NextEra Supplies Store with actionable insights, enabling them to make data-driven decisions and improve their overall business performance. Each visual should be crafted to address specific business questions and challenges, providing a clear and informative representation of their data.
 
-#MySQL DataBase
+# MySQL DataBase
 ## DataBase Creation
+
 First, you need to create a database to store the data for global access. I have created the database in MySQL. Below is a screenshot of the database creation process.
+
 ## Dashboard Screenshot
 
 ![Dashboard Overview](image/1.JPG)
-
+<br>
+<br>
 Next, we need to import the data into the database. Ensure that the Excel sheet is saved in comma-separated values (CSV) format (e.g., 'file.csv'). The following visual illustrates the process of importing data into the 'NextEra Supplies' database.
+<br>
+<br>
 
 ![Database Creation](image/2.JPG)
-
+<br>
+<br>
 Now that you have successfully imported the data into the database, use Structured Query Language (SQL) to view the attributes of the table. Below is a preview of the data.
-
+<br>
+<br>
 ![Database Creation](image/3.JPG)
-
+<br>
+<br>
 ## MySQL Connection to Power BI
+<br>
+<br>
 Establish Connection Between Power BI & MySQL
 Here, you need to hover over the upper ribbon where you'll see the option "Get Data." Click on it, then type "MySQL" in the search bar. You'll see "MySQL Database" appear. Click on the "Connect" button as shown below.
+<br>
+<br>
 
 ![Database Creation](image/4.JPG)
 
