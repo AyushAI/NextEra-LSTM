@@ -6,6 +6,14 @@ NextEra Supplies Store is a well-known retail giant that has been relying on Exc
 
 This dashboard should aim to empower NextEra Supplies Store with actionable insights, enabling them to make data-driven decisions and improve their overall business performance. Each visual should be crafted to address specific business questions and challenges, providing a clear and informative representation of their data.
 
+
+--- 
+### **Featured Case Study**  
+Read the detailed case study on Nextera Supplies :  [Nextera Supplies Analytical Case Study](https://medium.com/@ayush.developer10/nextera-supplies-analytical-case-study-a07776b25ced)  
+
+---
+
+
 # MySQL DataBase
 ## DataBase Creation
 
