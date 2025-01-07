@@ -13,6 +13,49 @@ Read the detailed case study on Nextera Supplies :  [Nextera Supplies Analytical
 
 ---
 
+# Real-World Business Challenges Tackled in This Repository
+
+This repository addresses key business challenges and provides insights based on real-world data. Below are the primary questions explored and analyzed in this project:
+
+## Key Business Questions
+
+1. **Performance Overview**
+   - What are the total revenue, profitability, processed orders, and customer base?
+
+2. **Annual and Quarterly Trends**
+   - What are the annual sales trends, and how do they compare across quarters?
+
+3. **Seasonality Insights**
+   - How do monthly sales and profits fluctuate, and what are the seasonal trends?
+
+4. **Regional Performance**
+   - Which regions generate the most sales and profits? Which regions underperform?
+
+5. **Interactive Dashboards**
+   - How can interactive features provide tailored insights by category and segment?
+
+6. **Sales and Profit Targets (2016–2020)**
+   - How do actual sales and profits compare to set targets?
+
+7. **Visualization Enhancements**
+   - How do interactive maps improve clarity of sales and profit distributions by region?
+
+8. **Customer Insights**
+   - What are the age and income-based customer distributions? How do they impact sales?
+
+9. **Order Processing Analysis**
+   - What is the status of order processing, and how often are orders delayed?
+
+10. **Consumer Behavior Trends**
+    - How do sales patterns differ on weekdays vs. weekends?
+
+11. **Cost and Sales Analysis**
+    - What are the average costs per unit and category-based pricing trends?
+
+12. **Sales Metrics for Specific Periods**
+    - What were the total sales during key date ranges?
+
+--- 
 
 # MySQL DataBase
 ## DataBase Creation
